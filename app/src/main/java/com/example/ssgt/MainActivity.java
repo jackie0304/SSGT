@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+            //hihihihi
 
                 Intent i = new Intent(getApplicationContext(),InterestActivity.class);
                 startActivity(i);
