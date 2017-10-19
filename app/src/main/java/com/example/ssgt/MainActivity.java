@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        Toast.makeText(getApplicationContext(),"hi",Toast.LENGTH_SHORT).show();
 
 
                 Intent i = new Intent(getApplicationContext(),InterestActivity.class);
